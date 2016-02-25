@@ -1,6 +1,10 @@
 # sanskrit-ocr-r0
 A project to OCR critical sanskrit texts
 
+## How to get OCR-s?
+* Archive already has a crude OCR which does not recognize devanAgarI - example [https://archive.org/stream/ADictionaryOfSanskritGrammarByMahamahopadhyayaKashinathVasudevAbhyankar/DictionaryOfSanskritGrammar_abhyankar_djvu.txt] .
+* If you work at some companies (say Google), you may have wonderful infrastructure and a couple of hundred machines to get good OCR's fast. Ask around!
+
 ## Making corrections
 ### In dictionary type files
 1] Mark new headwords with a string - say "############". 
