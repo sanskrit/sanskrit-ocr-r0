@@ -7,8 +7,8 @@ A project to OCR critical sanskrit texts
 
 ## Making corrections
 ### In dictionary type files
-1] Mark new headwords with a string - say "############". 
-2] Fix egregious errors - especially in the headwords - to facilitate lookup. Typo errors in the meanings are more tolerable (usually the fixes are obvious to the reader).
+* Mark new headwords with a string - say "############". 
+* Fix egregious errors - especially in the headwords - to facilitate lookup. Typo errors in the meanings are more tolerable (usually the fixes are obvious to the reader).
 
 For example:
 If in the current text we have:
