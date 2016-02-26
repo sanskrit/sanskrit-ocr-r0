@@ -8,9 +8,9 @@ Do you want a text OCR-ed? If yes continue below. If not, clear all this text an
   * __Answer__:
 * If you commit to proof-read the result within a reasonable timeframe (say 1 month for a 300 pages), we will be specially excited to oblige you. Are you willing to make such a commitment? See [here](https://sites.google.com/site/sanskritcode/ocr/3-corrections) to get an idea of what it involves.
   * __Answer__:
-* Provide a link to the pdf of the *printed* book which needs to be OCR-ed. You can host the pdf online on several sites such as <dropbox.com> or <sites.google.com> .
+* Provide a link to the pdf of the *printed* book which needs to be OCR-ed. You can host the pdf online on several sites such as <http://dropbox.com> or <http://sites.google.com> .
   * __Answer__:
 * Is there any other information you want to provide?
   * __Answer__:
 
-Ok - thanks for answering the above questions. Subscribe to this thread to stay updated.
+Ok - thanks for answering the above questions 🙏. Subscribe to this thread to stay updated.
